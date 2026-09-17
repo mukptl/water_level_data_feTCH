@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "GIGBEST";
-const char* password = "22603636";
+const char* ssid = "********"; //enter your wifi ssid
+const char* password = "*********"; // your wifi passward 
 
 #define TRIG_PIN 4
 #define ECHO_PIN 15
